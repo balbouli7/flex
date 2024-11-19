@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+}
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(8, 88, 94);
+    height: 50px;
+}
+#links{
+    display: flex;
+    justify-content: space-evenly;
+    width: 30%;
+}
+a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    align-content: center;
+}
+button{
+    height: 70%;
+    background-color: rgba(0, 75, 5, 0.748);
+    align-self: center;
+    color: white;
+    margin-right: 10px;
+}
